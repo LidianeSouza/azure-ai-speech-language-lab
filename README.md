@@ -32,5 +32,33 @@ Após finalizar seus testes, **lembre-se de excluir o grupo de recursos criado n
 
 ---
 
-## 🧠 Etapa 2: Azure Language Studio (em andamento)
-[Será preenchida na próxima etapa]
+## 🧠 Etapa 2: Azure Language Studio
+
+### 🎯 Objetivos
+- Explorar funcionalidades de análise de linguagem natural no Azure Language Studio.
+- Praticar classificações de texto, análise de sentimentos, extração de entidades e linguagem personalizada.
+
+### 🛠️ Ferramentas Utilizadas
+- Azure Language Studio
+- Azure Portal (mesmo grupo de recursos da Etapa 1)
+
+### ✅ O que foi feito
+- Análise de sentimentos em textos curtos e longos.
+- Extração de entidades nomeadas (pessoas, locais, datas).
+- Classificação de texto por categorias.
+- Teste de modelos personalizados de linguagem (Custom Text Classification e NER).
+
+### 💡 Insights
+- A análise de sentimentos é útil para feedbacks de clientes e redes sociais.
+- A extração de entidades permite organizar informações automaticamente.
+- A criação de modelos personalizados exige planejamento, mas amplia o poder de análise da IA.
+
+### 🖼️ Capturas de Tela
+Veja a pasta `/images` para exemplos visuais da prática.
+
+### ⚠️ Dica Importante
+Se utilizar novos recursos para o Language Studio, lembre-se de que eles compartilham o grupo de recursos com a Etapa 1. Exclua o grupo ao final para evitar cobranças.
+
+---
+
+📌 Projeto desenvolvido como parte de um laboratório prático com foco em IA aplicada a voz e linguagem natural usando serviços do Microsoft Azure.
