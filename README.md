@@ -26,15 +26,16 @@ Este repositório contém anotações e experiências práticas com o uso do Azu
 ### 🖼️ Capturas de Tela
 Veja a pasta `/images` para exemplos visuais da prática.
 
-### 🖼️ Capturas de Tela – Speech to Text (Etapa 1)
-
 | Etapa | Descrição | Imagem |
 |-------|-----------|--------|
 | 1     | Acesso ao Speech Studio | ![Acesso ao Speech Studio](images/etapa-1-speech-studio/01-acesso-speech-studio.png) |
 | 2     | Criação e configuração do recurso Speech no Azure | ![Criação do recurso Speech](images/etapa-1-speech-studio/02-criacao-recurso-speech.png) |
 | 3     | Interface da ferramenta de Conversão de Fala em Texto | ![Interface Speech to Text](images/etapa-1-speech-studio/03-interface-speech-to-text.png) |
-| 4     | Teste com áudio de exemplo da Microsoft e transcrição precisa | ![Teste com áudio oficial](images/etapa-1-speech-studio/04-audio-oficial-microsoft.png) |
+| 4     | Teste com áudio de exemplo da Microsoft e transcrição precisa | ![Teste com áudio exemplo](images/etapa-1-speech-studio/04-audio-exemplo-microsoft.png) |
 | 5     | Teste com áudio próprio sobre IA e transcrição precisa | ![Áudio próprio utilizado](images/etapa-1-speech-studio/05-audio-proprio-ia.png) |
+| 6     | Acesso à ferramenta de Tradução de Fala no Speech Studio | ![Acesso à ferramenta de tradução](images/etapa-1-speech-studio/06-acesso-traducao.png) |
+| 7     | Seleção dos idiomas: entrada em Português e saída em Inglês | ![Seleção de idiomas](images/etapa-1-speech-studio/07-selecao-idiomas.png) |
+| 8     | Tradução bem-sucedida do áudio próprio sobre IA | ![Tradução realizada](images/etapa-1-speech-studio/08-traducao-realizada.png) |
 
 ### ⚠️ Dica Importante
 Após finalizar seus testes, **lembre-se de excluir o grupo de recursos criado no Azure** para evitar cobranças desnecessárias. Mesmo recursos gratuitos podem gerar custos se ultrapassarem os limites do plano gratuito.
