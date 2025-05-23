@@ -19,9 +19,7 @@ Este repositório contém anotações e experiências práticas com o uso do Azu
 - Tradução de fala
 
 ### 💡 Insights
-- O reconhecimento de fala em tempo real tem boa precisão, mesmo com sotaque regional.
-- A geração de voz é extremamente natural, com várias opções de entonação.
-- A tradução de fala pode ser útil para soluções multilíngues em tempo real.
+colocar link pasta insights
 
 ### 🖼️ Capturas de Tela
 Veja a pasta `/images` para exemplos visuais da prática.
@@ -38,10 +36,7 @@ Veja a pasta `/images` para exemplos visuais da prática.
 | 8     | Tradução bem-sucedida do áudio próprio sobre IA | ![Tradução realizada](images/etapa-1-speech-studio/08-traducao-realizada.png) |
 | 9     | Acesso à Galeria de Serviço de Voz no Speech Studio | ![Acesso à galeria de voz](images/etapa-1-speech-studio/09-acesso-galeria-voz.png) |
 | 10    | Escolha do idioma (Português) e da voz, com uso de texto sobre IA | ![Escolha de idioma e voz](images/etapa-1-speech-studio/10-escolha-idioma-voz.png) |
-| 11    | Reprodução e geração de fala com qualidade e naturalidade | ![Geração da fala](images/etapa-1-speech-studio/11-geracao-fala.png) |
-
-### ⚠️ Dica Importante
-Após finalizar seus testes, **lembre-se de excluir o grupo de recursos criado no Azure** para evitar cobranças desnecessárias. Mesmo recursos gratuitos podem gerar custos se ultrapassarem os limites do plano gratuito.
+| 11    | Reprodução e geração de fala com qualidade e naturalidade | ![Geração da fala](images/etapa-1-speech-studio/11-geracao-fala.png) 
 
 ---
 
@@ -61,16 +56,13 @@ Após finalizar seus testes, **lembre-se de excluir o grupo de recursos criado n
 - Classificação de texto por categorias.
 - Teste de modelos personalizados de linguagem (Custom Text Classification e NER).
 
-### 💡 Insights
-- A análise de sentimentos é útil para feedbacks de clientes e redes sociais.
-- A extração de entidades permite organizar informações automaticamente.
-- A criação de modelos personalizados exige planejamento, mas amplia o poder de análise da IA.
-
 ### 🖼️ Capturas de Tela
 Veja a pasta `/images` para exemplos visuais da prática.
 
-### ⚠️ Dica Importante
-Se utilizar novos recursos para o Language Studio, lembre-se de que eles compartilham o grupo de recursos com a Etapa 1. Exclua o grupo ao final para evitar cobranças.
+### 💡 Insights
+colocar link pasta insights
+
+links uteis
 
 ---
 
