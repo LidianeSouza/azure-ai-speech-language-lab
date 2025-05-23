@@ -17,7 +17,6 @@ Este repositório contém anotações e experiências práticas com o uso do Azu
 - Transcrição de áudio gravado (speech-to-text)
 - Geração de fala a partir de texto (text-to-speech)
 - Tradução de fala
-- Exploração da funcionalidade Custom Voice
 
 ### 💡 Insights
 - O reconhecimento de fala em tempo real tem boa precisão, mesmo com sotaque regional.
@@ -26,6 +25,19 @@ Este repositório contém anotações e experiências práticas com o uso do Azu
 
 ### 🖼️ Capturas de Tela
 Veja a pasta `/images` para exemplos visuais da prática.
+
+### 🖼️ Capturas de Tela – Text-to-Speech (Etapa 1)
+
+| Etapa | Descrição | Imagem |
+|-------|-----------|--------|
+| 1     | Acesso ao Speech Studio e login | ![Login no Speech Studio](images/etapa-1-speech-studio/01-login-speech-studio.png) |
+| 2     | Seleção do recurso Speech no Azure | ![Selecionar recurso Speech](images/etapa-1-speech-studio/02-selecionar-recurso.png) |
+| 3     | Interface da ferramenta Text to Speech | ![Interface Text to Speech](images/etapa-1-speech-studio/03-interface-text-to-speech.png) |
+| 4     | Escolha de idioma e voz neural | ![Escolher idioma e voz](images/etapa-1-speech-studio/04-escolha-idioma-voz.png) |
+| 5     | Personalização de voz e estilo | ![Configurar voz e estilo](images/etapa-1-speech-studio/05-configurar-estilo.png) |
+| 6     | Reprodução e geração da fala | ![Gerar fala](images/etapa-1-speech-studio/06-play-fala.png) |
+| 7     | Download do áudio gerado | ![Download do áudio](images/etapa-1-speech-studio/07-download-audio.png) |
+
 
 ### ⚠️ Dica Importante
 Após finalizar seus testes, **lembre-se de excluir o grupo de recursos criado no Azure** para evitar cobranças desnecessárias. Mesmo recursos gratuitos podem gerar custos se ultrapassarem os limites do plano gratuito.
