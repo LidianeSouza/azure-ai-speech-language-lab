@@ -36,7 +36,7 @@ Veja a pasta `/images` para exemplos visuais da prática.
 | 6     | Acesso à ferramenta de Tradução de Fala no Speech Studio | ![Acesso à ferramenta de tradução](images/etapa-1-speech-studio/06-acesso-traducao.png) |
 | 7     | Seleção dos idiomas: entrada em Português e saída em Inglês | ![Seleção de idiomas](images/etapa-1-speech-studio/07-selecao-idiomas.png) |
 | 8     | Tradução bem-sucedida do áudio próprio sobre IA | ![Tradução realizada](images/etapa-1-speech-studio/08-traducao-realizada.png) |
-| 9     | Acesso à galeria de serviço de voz no Speech Studio | ![Acesso à galeria de voz](images/etapa-1-speech-studio/09-acesso-galeria-voz.png) |
+| 9     | Acesso à Galeria de Serviço de Voz no Speech Studio | ![Acesso à galeria de voz](images/etapa-1-speech-studio/09-acesso-galeria-voz.png) |
 | 10    | Escolha do idioma (Português) e da voz, com uso de texto sobre IA | ![Escolha de idioma e voz](images/etapa-1-speech-studio/10-escolha-idioma-voz.png) |
 | 11    | Reprodução e geração de fala com qualidade e naturalidade | ![Geração da fala](images/etapa-1-speech-studio/11-geracao-fala.png) |
 
