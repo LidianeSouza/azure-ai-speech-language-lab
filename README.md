@@ -46,13 +46,17 @@ Veja a pasta `/images` para exemplos visuais da prática.
 
 ## 🧠 Etapa 2: Azure Language Studio
 
-### 🎯 Objetivos
-- Explorar funcionalidades de análise de linguagem natural no Azure Language Studio.
-- Praticar classificações de texto, análise de sentimentos, extração de entidades e linguagem personalizada.
+## 🎯 Objetivos da Etapa
+- Explorar funcionalidades do Azure Language Studio com foco em:
+  - Análise de sentimentos
+  - Análise de opiniões
+  - Classificação de texto
+  - Detecção de idioma
 
-### 🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 - Azure Language Studio
-- Azure Portal (mesmo grupo de recursos da Etapa 1)
+- Portal Azure (para configuração dos recursos)
+- Textos em português e inglês 
 
 ### ✅ O que foi feito
 - Análise de sentimentos em textos curtos e longos.
