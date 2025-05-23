@@ -17,6 +17,7 @@ Este repositório contém anotações e experiências práticas com o uso do Azu
 - Transcrição de áudio gravado (speech-to-text)
 - Geração de fala a partir de texto (text-to-speech)
 - Tradução de fala
+- Exploração da funcionalidade Custom Voice
 
 ### 💡 Insights
 - O reconhecimento de fala em tempo real tem boa precisão, mesmo com sotaque regional.
@@ -25,6 +26,9 @@ Este repositório contém anotações e experiências práticas com o uso do Azu
 
 ### 🖼️ Capturas de Tela
 Veja a pasta `/images` para exemplos visuais da prática.
+
+### ⚠️ Dica Importante
+Após finalizar seus testes, **lembre-se de excluir o grupo de recursos criado no Azure** para evitar cobranças desnecessárias. Mesmo recursos gratuitos podem gerar custos se ultrapassarem os limites do plano gratuito.
 
 ---
 
