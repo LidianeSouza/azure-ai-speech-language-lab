@@ -1,17 +1,5 @@
 # 🧠 Insights – Etapa 2: Azure Language Studio
 
-## 🎯 Objetivos da Etapa
-- Explorar funcionalidades do Azure Language Studio com foco em:
-  - Análise de sentimentos
-  - Análise de opiniões
-  - Classificação de texto
-  - Detecção de idioma
-
-## 🛠️ Ferramentas Utilizadas
-- Azure Language Studio
-- Portal Azure (para criação e configuração dos recursos)
-- Textos em português e inglês 
-
 ## 📝 Atividades Realizadas
 
 ### 1. Análise de Sentimentos e Opiniões 
