@@ -35,8 +35,7 @@
   - Uso do texto sobre IA em português para geração de fala.
 - **Observações**:
   - Voz natural e fluida, com entonação realista.
-  - Diversas opções de vozes e dialetos disponíveis.
-  - Ideal para aplicações acessíveis e assistivas.
+  - Diversas opções de vozes e idiomas disponíveis..
 
 ## ⚠️ Dica Importante
 > Após os testes, **exclua o grupo de recursos** criado no Azure para evitar cobranças indevidas.
