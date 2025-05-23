@@ -5,13 +5,17 @@ Este repositório contém anotações e experiências práticas com o uso do Azu
 
 ## 🎙️ Etapa 1: Azure Speech Studio
 
-### 🎯 Objetivos
-- Praticar funcionalidades de reconhecimento e geração de fala usando o Speech Studio.
-- Avaliar a qualidade da transcrição e síntese de fala.
+## 🎯 Objetivos da Etapa
+- Explorar e testar as principais funcionalidades do Azure Speech Studio:
+  - Conversão de fala em texto (speech-to-text)
+  - Tradução de fala em tempo real
+  - Geração de fala a partir de texto (text-to-speech)
 
-### 🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 - Azure Speech Studio
-- Azure Portal (para criação de recursos)
+- Microsoft Azure Portal
+- Áudio de exemplo da Microsoft Learn
+- Áudio próprio sobre Inteligência Artificial
 
 ### ✅ O que foi feito
 - Transcrição de áudio gravado (speech-to-text)
