@@ -56,7 +56,7 @@ Veja a pasta `/images` para exemplos visuais da prática.
 
 ## 🛠️ Ferramentas Utilizadas
 - Azure Language Studio
-- Portal Azure (para configuração dos recursos)
+- Portal Azure (para criação e configuração dos recursos)
 - Textos em português e inglês 
 
 ### ✅ O que foi feito
