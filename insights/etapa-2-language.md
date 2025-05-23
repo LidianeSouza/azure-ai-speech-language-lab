@@ -22,7 +22,7 @@
   - Ótimo recurso para feedbacks, resenhas de produtos ou conteúdo em redes sociais.
 
 ### 2. Classificação de Texto com NLU
-- **Descrição**: Utilizamos a sessão de classificação para rotular textos automaticamente, aproveitando modelos pré-treinados da plataforma.
+- **Descrição**: Utilizei a sessão de classificação para rotular textos automaticamente, aproveitando modelos pré-treinados da plataforma.
 - **Observações**:
   - Permite categorizar conteúdos por tema, intenção ou área.
   - Ideal para automação de triagens e organização de grandes volumes de texto.
