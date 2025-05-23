@@ -26,14 +26,15 @@ Este repositório contém anotações e experiências práticas com o uso do Azu
 ### 🖼️ Capturas de Tela
 Veja a pasta `/images` para exemplos visuais da prática.
 
+### 🖼️ Capturas de Tela – Speech to Text (Etapa 1)
+
 | Etapa | Descrição | Imagem |
 |-------|-----------|--------|
 | 1     | Acesso ao Speech Studio | ![Acesso ao Speech Studio](images/etapa-1-speech-studio/01-acesso-speech-studio.png) |
 | 2     | Criação e configuração do recurso Speech no Azure | ![Criação do recurso Speech](images/etapa-1-speech-studio/02-criacao-recurso-speech.png) |
 | 3     | Interface da ferramenta de Conversão de Fala em Texto | ![Interface Speech to Text](images/etapa-1-speech-studio/03-interface-speech-to-text.png) |
-| 4     | Teste com áudio de exemplo disponibilizado no laboratório oficial da Microsoft Learn ([ver passo a passo](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)) | ![Teste com áudio oficial](images/etapa-1-speech-studio/04-audio-oficial-microsoft.png) |
-| 5     | Utilização de gravação de áudio próprio sobre Inteligência Artificial para testes | ![Áudio próprio utilizado](images/etapa-1-speech-studio/05-audio-proprio-ia.png) |
-| 6     | Transcrição em tempo real gerada com precisão | ![Transcrição gerada](images/etapa-1-speech-studio/06-transcricao-gerada.png) |
+| 4     | Teste com áudio de exemplo da Microsoft e transcrição precisa | ![Teste com áudio oficial](images/etapa-1-speech-studio/04-audio-oficial-microsoft.png) |
+| 5     | Teste com áudio próprio sobre IA e transcrição precisa | ![Áudio próprio utilizado](images/etapa-1-speech-studio/05-audio-proprio-ia.png) |
 
 ### ⚠️ Dica Importante
 Após finalizar seus testes, **lembre-se de excluir o grupo de recursos criado no Azure** para evitar cobranças desnecessárias. Mesmo recursos gratuitos podem gerar custos se ultrapassarem os limites do plano gratuito.
