@@ -17,7 +17,6 @@ Este repositório contém anotações e experiências práticas com o uso do Azu
 - Transcrição de áudio gravado (speech-to-text)
 - Geração de fala a partir de texto (text-to-speech)
 - Tradução de fala
-- Exploração da funcionalidade Custom Voice
 
 ### 💡 Insights
 - O reconhecimento de fala em tempo real tem boa precisão, mesmo com sotaque regional.
