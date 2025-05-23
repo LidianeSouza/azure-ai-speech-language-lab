@@ -21,6 +21,7 @@ Este repositório contém anotações e experiências práticas com o uso do Azu
 - Transcrição de áudio gravado (speech-to-text)
 - Geração de fala a partir de texto (text-to-speech)
 - Tradução de fala
+- mais detalhes link insigts
 
 ### 💡 Insights
 colocar link pasta insights
@@ -60,9 +61,8 @@ Veja a pasta `/images` para exemplos visuais da prática.
 
 ### ✅ O que foi feito
 - Análise de sentimentos em textos curtos e longos.
-- Extração de entidades nomeadas (pessoas, locais, datas).
-- Classificação de texto por categorias.
-- Teste de modelos personalizados de linguagem (Custom Text Classification e NER).
+- Detecção de Idiomas.
+- mais detalhes link insigts
 
 ### 🖼️ Capturas de Tela
 Veja a pasta `/images` para exemplos visuais da prática.
