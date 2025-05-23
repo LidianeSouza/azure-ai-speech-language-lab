@@ -1,17 +1,5 @@
 # 🧠 Insights – Etapa 1: Azure Speech Studio
 
-## 🎯 Objetivos da Etapa
-- Explorar e testar as principais funcionalidades do Azure Speech Studio:
-  - Conversão de fala em texto (speech-to-text)
-  - Tradução de fala em tempo real
-  - Geração de fala a partir de texto (text-to-speech)
-
-## 🛠️ Ferramentas Utilizadas
-- Azure Speech Studio
-- Microsoft Azure Portal
-- Áudio de exemplo da Microsoft Learn
-- Áudio próprio sobre Inteligência Artificial
-
 ## 📝 Atividades Realizadas
 
 ### 1. Conversão de Fala em Texto (Speech to Text)
