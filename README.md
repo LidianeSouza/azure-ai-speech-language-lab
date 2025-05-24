@@ -82,6 +82,18 @@ As imagens da etapa 2 estão organizadas na pasta `/images/etapa-2-language-stud
 
 ---
 
+## 🏁 Conclusão Geral
+
+Finalizar este laboratório prático foi uma experiência enriquecedora. Pude explorar na prática os recursos do Azure Speech Studio e do Language Studio, o que me ajudou a entender com mais profundidade como essas tecnologias funcionam e como podem ser aplicadas em situações reais.
+
+Enfrentei alguns desafios no caminho, mas justamente por isso o aprendizado foi tão significativo — nada substitui o ganho de conhecimento que vem da prática e da tentativa.
+
+Fiquei impressionada com o potencial dessas ferramentas para transformar interações com usuários e gerar insights a partir de dados em linguagem natural. Vejo muitas possibilidades de aplicação, como automações em atendimento ao cliente, análise de sentimentos em pesquisas e até soluções mais acessíveis para pessoas com deficiência.
+
+Esse laboratório reforçou meu interesse por soluções baseadas em IA e abriu portas para futuros projetos nessa área.
+
+---
+
 ## 🔗 Links Úteis
 - [Azure Speech Studio](https://speech.microsoft.com/) – Plataforma para testar e desenvolver soluções com reconhecimento de fala e conversão de texto.
 - [Azure Language Studio](https://language.azure.com/) – Plataforma para análise de sentimentos, extração de opinião, classificação e tradução de texto.
