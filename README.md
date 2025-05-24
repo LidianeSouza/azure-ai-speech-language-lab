@@ -2,6 +2,9 @@
 
 ## 📝 Descrição
 Este repositório contém anotações e experiências práticas com o uso do Azure Speech Studio e Language Studio, com o objetivo de explorar soluções baseadas em IA para voz e linguagem natural.
+O projeto foi dividido em **duas etapas**:  
+- **Etapa 1 – Speech Studio:** exploração de recursos como conversão de fala em texto, tradução de fala em tempo real e geração de fala a partir de texto.  
+- **Etapa 2 – Language Studio:** utilização de ferramentas para análise de sentimentos, extração de opiniões, classificação de texto e detecção de idioma.
 
 ## 🎙️ Etapa 1: Azure Speech Studio
 
@@ -17,17 +20,14 @@ Este repositório contém anotações e experiências práticas com o uso do Azu
 - Áudio de exemplo da Microsoft Learn
 - Áudio próprio sobre Inteligência Artificial
 
-### ✅ O que foi feito
-- Transcrição de áudio gravado (speech-to-text)
+### ✅ O que foi feito e Insights Obtidos
+- Transcrição de áudios (speech-to-text)
 - Geração de fala a partir de texto (text-to-speech)
-- Tradução de fala
-- mais detalhes link insigts
-
-### 💡 Insights
-colocar link pasta insights
+- Tradução automática de fala entre idiomas  
+➡️ [Ver insights detalhados](./insights/etapa-1-speech.md)
 
 ### 🖼️ Capturas de Tela
-Veja a pasta `/images` para exemplos visuais da prática.
+Na pasta `/images` etapa-1-speech-studio contém o passo a passo com prints para exemplos visuais da prática. conforme abaixo:
 
 | Etapa | Descrição | Imagem |
 |-------|-----------|--------|
@@ -60,12 +60,13 @@ Veja a pasta `/images` para exemplos visuais da prática.
 - Textos em português e inglês 
 
 ### ✅ O que foi feito
-- Análise de sentimentos em textos curtos e longos.
-- Detecção de Idiomas.
-- mais detalhes link insigts
+- Análise de sentimentos em diferentes contextos
+- Classificação de opiniões com modelo pré-treinado
+- Detecção de idioma com textos variados  
+➡️ [Ver insights detalhados](./insights/etapa-2-language.md)
 
 ### 🖼️ Capturas de Tela
-### 🖼️ Capturas de Tela – Azure Language Studio (Etapa 2)
+Na pasta `/images` etapa-2-language-studio contém o passo a passo com prints para exemplos visuais da prática. conforme abaixo:
 
 | Etapa | Descrição                                                                                         | Imagem                                                                                             |
 |-------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -79,11 +80,14 @@ Veja a pasta `/images` para exemplos visuais da prática.
 | 8     | Teste de detecção de idioma com texto sobre IA (utilizado na Etapa 1)                             | ![Detecção de Idioma com Texto de IA](images/etapa-2-language-studio/08-teste-texto-ia.png)        |
 | 9     | Resultado da detecção – idioma identificado corretamente como português                           | ![Resultado da Detecção](images/etapa-2-language-studio/09-resultado-deteccao.png)                 |
 
+---
 
-### 💡 Insights
-colocar link pasta insights
-
-links uteis
+## 🔗 Links Úteis
+- [Azure Speech Studio](https://speech.microsoft.com/)
+- [Azure Language Studio](https://language.azure.com/)
+- [Documentação Microsoft Learn](https://learn.microsoft.com/pt-br/training/)
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
 
 ---
 
