@@ -34,14 +34,14 @@ Na pasta `/images` etapa-1-speech-studio contém o passo a passo com prints para
 | 1     | Acesso ao Speech Studio | ![Acesso ao Speech Studio](images/etapa-1-speech-studio/01-acesso-speech-studio.png) |
 | 2     | Criação e configuração do recurso Speech no Azure | ![Criação do recurso Speech](images/etapa-1-speech-studio/02-criacao-recurso-speech.png) |
 | 3     | Interface da ferramenta de Conversão de Fala em Texto | ![Interface Speech to Text](images/etapa-1-speech-studio/03-interface-speech-to-text.png) |
-| 4     | Teste com áudio de exemplo da Microsoft e transcrição precisa | ![Teste com áudio exemplo](images/etapa-1-speech-studio/04-audio-exemplo-microsoft.png) |
-| 5     | Teste com áudio próprio sobre IA e transcrição precisa | ![Áudio próprio utilizado](images/etapa-1-speech-studio/05-audio-proprio-ia.png) |
-| 6     | Acesso à ferramenta de Tradução de Fala no Speech Studio | ![Acesso à ferramenta de tradução](images/etapa-1-speech-studio/06-acesso-traducao.png) |
+| 4     | Teste com áudio de exemplo da Microsoft e Resultado transcrição precisa | ![Teste com áudio exemplo](images/etapa-1-speech-studio/04-audio-exemplo-microsoft.png) |
+| 5     | Teste com áudio próprio sobre IA e Resultado transcrição precisa | ![Áudio próprio utilizado](images/etapa-1-speech-studio/05-audio-proprio-ia.png) |
+| 6     | Acesso à ferramenta de Tradução de Fala | ![Acesso à ferramenta de tradução](images/etapa-1-speech-studio/06-acesso-traducao.png) |
 | 7     | Seleção dos idiomas: entrada em Português e saída em Inglês | ![Seleção de idiomas](images/etapa-1-speech-studio/07-selecao-idiomas.png) |
 | 8     | Tradução bem-sucedida do áudio próprio sobre IA | ![Tradução realizada](images/etapa-1-speech-studio/08-traducao-realizada.png) |
-| 9     | Acesso à Galeria de Serviço de Voz no Speech Studio | ![Acesso à galeria de voz](images/etapa-1-speech-studio/09-acesso-galeria-voz.png) |
-| 10    | Escolha do idioma (Português) e da voz, com uso de texto sobre IA | ![Escolha de idioma e voz](images/etapa-1-speech-studio/10-escolha-idioma-voz.png) |
-| 11    | Reprodução e geração de fala com qualidade e naturalidade | ![Geração da fala](images/etapa-1-speech-studio/11-geracao-fala.png) 
+| 9     | Acesso à Galeria de Serviço de Voz | ![Acesso à galeria de voz](images/etapa-1-speech-studio/09-acesso-galeria-voz.png) |
+| 10    | Escolha do idioma (Português) e da voz, uso de texto sobre IA | ![Escolha de idioma e voz](images/etapa-1-speech-studio/10-escolha-idioma-voz.png) |
+| 11    | Reprodução e geração de fala natural | ![Geração da fala](images/etapa-1-speech-studio/11-geracao-fala.png) 
 
 ---
 
@@ -76,7 +76,7 @@ Na pasta `/images` etapa-2-language-studio contém o passo a passo com prints pa
 | 4     | Escolha da funcionalidade de Classificar Texto: Análise de Sentimentos e Extração de Opiniões | ![Escolha da Funcionalidade](images/etapa-2-language-studio/04-escolha-classificacao-texto.png)           |
 | 5     | Análise de sentimento aplicada à opinião de um usuário (exemplo do Microsoft Learn)               | ![Análise de Sentimento](images/etapa-2-language-studio/05-analise-sentimento.png)                 |
 | 6     | Resultado da classificação da opinião com análise detalhada do sentimento (modelo pré-treinado)   | ![Classificação de Opinião](images/etapa-2-language-studio/06-classificacao-opiniao.png)           |
-| 7     | Acesso à ferramenta de detecção de idioma                                                         | ![Ferramenta de Detecção de Idioma](images/etapa-2-language-studio/07-acesso-deteccao-idioma.png)  |
+| 7     | Acesso à funcionalidade de detecção de idioma                                                         | ![Funcionalidade de Detecção de Idioma](images/etapa-2-language-studio/07-acesso-deteccao-idioma.png)  |
 | 8     | Teste de detecção de idioma com texto sobre IA (utilizado na Etapa 1)                             | ![Detecção de Idioma com Texto de IA](images/etapa-2-language-studio/08-teste-texto-ia.png)        |
 | 9     | Resultado da detecção – idioma identificado corretamente como português                           | ![Resultado da Detecção](images/etapa-2-language-studio/09-resultado-deteccao.png)                 |
 
