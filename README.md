@@ -86,7 +86,7 @@ As imagens da etapa 2 estão organizadas na pasta `/images/etapa-2-language-stud
 
 Finalizar este laboratório prático foi uma experiência enriquecedora. Pude explorar na prática os recursos do Azure Speech Studio e do Language Studio, o que me ajudou a entender com mais profundidade como essas tecnologias funcionam e como podem ser aplicadas em situações reais.
 
-Enfrentei alguns desafios no caminho, mas justamente por isso o aprendizado foi tão significativo — nada substitui o ganho de conhecimento que vem da prática e da tentativa.
+Enfrentei alguns desafios no caminho, e um dos principais foi o tempo investido na construção do repositório. Por ser bastante detalhista, fiz questão de organizar cuidadosamente cada etapa, com capturas de tela bem posicionadas e anotações claras. Embora esse processo tenha exigido bastante dedicação, considero que o resultado final valeu muito a pena. E justamente por isso o aprendizado foi tão significativo — nada substitui o ganho de conhecimento que vem da prática e da tentativa.
 
 Fiquei impressionada com o potencial dessas ferramentas para transformar interações com usuários e gerar insights a partir de dados em linguagem natural. Vejo muitas possibilidades de aplicação, como automações em atendimento ao cliente, análise de sentimentos em pesquisas e até soluções mais acessíveis para pessoas com deficiência.
 
