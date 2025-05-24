@@ -27,7 +27,7 @@ O projeto foi dividido em **duas etapas**:
 ➡️ [Ver insights detalhados](./insights/etapa-1-speech.md)
 
 ### 🖼️ Capturas de Tela
-Na pasta `/images` etapa-1-speech-studio contém o passo a passo com prints para exemplos visuais da prática. conforme abaixo:
+As imagens da etapa 1 estão organizadas na pasta `/images/etapa-1-speech-studio`, apresentando um passo a passo ilustrado com capturas de tela que facilitam a visualização e compreensão das atividades realizadas, conforme detalhado abaixo:
 
 | Etapa | Descrição | Imagem |
 |-------|-----------|--------|
@@ -66,7 +66,7 @@ Na pasta `/images` etapa-1-speech-studio contém o passo a passo com prints para
 ➡️ [Ver insights detalhados](./insights/etapa-2-language.md)
 
 ### 🖼️ Capturas de Tela
-Na pasta `/images` etapa-2-language-studio contém o passo a passo com prints para exemplos visuais da prática. conforme abaixo:
+As imagens da etapa 2 estão organizadas na pasta `/images/etapa-2-language-studio`, com um passo a passo ilustrado através de capturas de tela que ajudam a compreender visualmente as ações realizadas, conforme listado abaixo:
 
 | Etapa | Descrição                                                                                         | Imagem                                                                                             |
 |-------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
