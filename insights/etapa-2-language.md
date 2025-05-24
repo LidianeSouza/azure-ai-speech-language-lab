@@ -9,13 +9,7 @@
   - A análise de opinião destaca trechos e palavras-chave com base no contexto.
   - É uma ferramenta ótima para analisar feedbacks, avaliações de produtos ou publicações em redes sociais.
 
-### 2. Classificação de Texto com NLU  
-- **O que testei:** Usei a função de classificação para identificar automaticamente o tema dos textos, aproveitando os modelos pré-treinados da plataforma.  
-- **O que percebi:**  
-  - É possível organizar textos por assunto, intenção ou área.
-  - Muito útil para automatizar a leitura e triagem de grandes volumes de conteúdo.
-
-### 3. Detecção de Idioma  
+### 2. Detecção de Idioma  
 - **O que testei:** Testei com um **texto sobre inteligência artificial em português** para ver se o sistema identificava corretamente o idioma.  
 - **O que percebi:**  
   - A identificação foi rápida e precisa.
