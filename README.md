@@ -83,11 +83,11 @@ Na pasta `/images` etapa-2-language-studio contém o passo a passo com prints pa
 ---
 
 ## 🔗 Links Úteis
-- [Azure Speech Studio](https://speech.microsoft.com/)
-- [Azure Language Studio](https://language.azure.com/)
-- [Documentação Microsoft Learn](https://learn.microsoft.com/pt-br/training/)
-https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
-https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
+- [Azure Speech Studio](https://speech.microsoft.com/) – Plataforma para testar e desenvolver soluções com reconhecimento de fala e conversão de texto.
+- [Azure Language Studio](https://language.azure.com/) – Plataforma para análise de sentimentos, extração de opinião, classificação e tradução de texto.
+- [Documentação Microsoft Learn](https://learn.microsoft.com/pt-br/training/) – Portal de aprendizagem da Microsoft com módulos e trilhas de capacitação.
+- [Lab Speech no Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html) – Laboratório oficial sobre Azure Speech Studio.
+- [Lab Text Analysis no Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html) – Laboratório oficial sobre Azure Language Studio.
 
 ---
 
