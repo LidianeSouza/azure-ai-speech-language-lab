@@ -65,7 +65,20 @@ Veja a pasta `/images` para exemplos visuais da prática.
 - mais detalhes link insigts
 
 ### 🖼️ Capturas de Tela
-Veja a pasta `/images` para exemplos visuais da prática.
+### 🖼️ Capturas de Tela – Azure Language Studio (Etapa 2)
+
+| Etapa | Descrição                                                                                         | Imagem                                                                                             |
+|-------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 1     | Acesso ao Azure para criação do recurso de Serviço de Linguagem (IA + Machine Learning)          | ![Criação do Serviço de Linguagem](images/etapa-2-language-studio/01-criacao-servico-linguagem.png) |
+| 2     | Seleção do grupo de recursos (mesmo da Etapa 1) e definição do nome                               | ![Grupo de Recursos e Nome](images/etapa-2-language-studio/02-grupo-nome-recurso.png)              |
+| 3     | Acesso ao Language Studio e seleção do recurso criado no Azure                                    | ![Acesso ao Language Studio](images/etapa-2-language-studio/03-acesso-language-studio.png)         |
+| 4     | Escolha da funcionalidade de Classificar Texto: Análise de Sentimentos e Extração de Opiniões | ![Escolha da Funcionalidade](images/etapa-2-language-studio/04-escolha-classificacao-texto.png)           |
+| 5     | Análise de sentimento aplicada à opinião de um usuário (exemplo do Microsoft Learn)               | ![Análise de Sentimento](images/etapa-2-language-studio/05-analise-sentimento.png)                 |
+| 6     | Resultado da classificação da opinião com análise detalhada do sentimento (modelo pré-treinado)   | ![Classificação de Opinião](images/etapa-2-language-studio/06-classificacao-opiniao.png)           |
+| 7     | Acesso à ferramenta de detecção de idioma                                                         | ![Ferramenta de Detecção de Idioma](images/etapa-2-language-studio/07-acesso-deteccao-idioma.png)  |
+| 8     | Teste de detecção de idioma com texto sobre IA (utilizado na Etapa 1)                             | ![Detecção de Idioma com Texto de IA](images/etapa-2-language-studio/08-teste-texto-ia.png)        |
+| 9     | Resultado da detecção – idioma identificado corretamente como português                           | ![Resultado da Detecção](images/etapa-2-language-studio/09-resultado-deteccao.png)                 |
+
 
 ### 💡 Insights
 colocar link pasta insights
