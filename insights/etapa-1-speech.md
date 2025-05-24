@@ -3,36 +3,36 @@
 ## 📝 Atividades Realizadas
 
 ### 1. Conversão de Fala em Texto (Speech to Text)
-- **Testes realizados**: 
-  - Com áudio disponibilizado no Microsoft Learn
-  - Com áudio próprio gravado sobre IA
-- **Observações**:
-  - Reconhecimento de voz rápido e preciso, mesmo com sotaques leves.
+- **Testes feitos com:**
+  - Áudio de exemplo do Microsoft Learn
+  - Áudio próprio gravado sobre Inteligência Artificial
+- **O que observei:**
+  - Reconhecimento rápido e preciso, mesmo com variações de sotaque.
   - Transcrição quase instantânea e bem estruturada.
-  - Interface clara e de fácil navegação.
+  - Interface simples e fácil de usar.
 
 ### 2. Tradução de Fala
-- **Testes realizados**:
-  - Tradução do áudio próprio de IA de português para inglês.
-- **Observações**:
-  - Tradução bem-sucedida e coerente com o conteúdo original.
-  - Funcionalidade útil para cenários multilíngues e atendimento global.
+- **Testes realizados:**
+  - Tradução do áudio próprio (em português) para o inglês.
+- **O que observei:**
+  - A tradução foi clara e manteve o sentido original da fala.
+  - Muito útil para situações com pessoas que falam diferentes idiomas.
 
 ### 3. Geração de Fala (Text to Speech)
-- **Testes realizados**:
-  - Uso do texto sobre IA em português para geração de fala.
-- **Observações**:
-  - Voz natural e fluida, com entonação realista.
-  - Diversas opções de vozes e idiomas disponíveis..
+- **Testes realizados:**
+  - Geração de voz a partir de um texto em português sobre IA.
+- **O que observei:**
+  - A voz gerada soa natural e com boa entonação.
+  - Várias opções de vozes e idiomas disponíveis.
 
 ## ⚠️ Dica Importante
-> Após os testes, **exclua o grupo de recursos** criado no Azure para evitar cobranças indevidas.
+> Depois de concluir os testes, **lembre-se de excluir o grupo de recursos** no Azure para evitar cobranças.
 
-## 💡 Principais Aprendizados
-- O Azure Speech Studio oferece uma interface simples para testes avançados de IA de voz.
-- As funcionalidades são robustas, com alto grau de personalização e precisão.
-- A ferramenta permite desenvolvimento ágil de POCs e aplicações reais com recursos de voz.
+## 💡 O que Aprendi
+- O Azure Speech Studio é uma ótima ferramenta para trabalhar com voz e inteligência artificial.
+- Tem funcionalidades completas, com alta precisão.
+- É ideal para testar ideias e criar protótipos de forma rápida e prática.
 
-## 📁 Relacionados
-- [README do projeto](../README.md)
-- [Capturas de tela da Etapa 1](../images/etapa-1-speech-studio/)
+## 📁 Arquivos Relacionados
+- [README do Projeto](../README.md)
+- [Capturas de Tela da Etapa 1](../images/etapa-1-speech-studio/)
